@@ -1,0 +1,5 @@
+# Keys: {player}
+
+JoinAndQuit:
+  Join: '§a+§8 {player}'
+  Quit: '§c-§8 {player}'
