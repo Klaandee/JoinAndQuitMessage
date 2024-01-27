@@ -28,6 +28,6 @@ class JoinAndQuitMessage extends PluginBase {
       
       $this->saveResource('config.yml');
       
-      $this->getLogger()->info('Join and Quit Message by Klande has enable');
+      $this->getLogger()->info('Join and Quit Message by Klande has enabled');
    }
 }
